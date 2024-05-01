@@ -19,6 +19,7 @@ const Frame = styled.section`
   display: flex;
   flex-flow: column;  
   flex: 3;
+  width: 100%;
 `;
 
 function App() {
